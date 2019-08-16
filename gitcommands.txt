@@ -1,0 +1,16 @@
+GIT commands :
+
+local file is called git, and web file is called github
+
+file can be worked offline , main advantage 
+
+git init - initialization 
+
+git add - to add the file to main repository
+
+-- git add . - to send all files in the folder to github
+-- git add filename - to send the particular file to the github
+
+git commit - edit and save the file
+
+git push - to push the file from local to central repository
