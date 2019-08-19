@@ -4,6 +4,13 @@ local file is called git, and web file is called github
 
 file can be worked offline , main advantage 
 
+standard procedure is to add, commit and the push
+
+git config --global user.name "karthi" ( first time login)
+
+git config --global user.email "karthi@gmail.com" (first time login)
+
+
 git init - initialization 
 
 git add - to add the file to main repository
@@ -13,4 +20,16 @@ git add - to add the file to main repository
 
 git commit - edit and save the file
 
+--git commit -m "1time"(name is optional) - to identify the changes made with timestamp ,used to rollback the unwanted changes
+
 git push - to push the file from local to central repository
+
+--git push --set-upstream origin master(branchname) - used to push the files from local git to github
+
+TO CREATE BRANCHL\: 
+
+git branch (branchname) - to create new branch
+
+git checkout branch1 - to enter into the branch
+
+hello
