@@ -33,3 +33,7 @@ git branch (branchname) - to create new branch
 git checkout branch1 - to enter into the branch
 
 git status - to know which branch and which file is active
+
+oneline graph /stash/ tag
+
+oneline log / remove a particular log
