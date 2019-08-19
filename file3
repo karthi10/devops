@@ -8,4 +8,9 @@ git rebase (oldbranchname) (newbranchname) - to merge all the files in old branc
 
 git stash - save the file in work in progress area 
 
-git clone /path/to/repository
+git clone /path/to/repository+
+
+git add - to add the file to main repository
+
+-- git add . - to send all files in the folder to github
+-- git add filename - to send the particular file to the github
