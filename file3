@@ -21,3 +21,4 @@ git push - to push the file from local to central repository
 
 --git push --set-upstream origin master(branchname) - used to push the files from local git to github
 
+git branch (branchname) - to create new branch
