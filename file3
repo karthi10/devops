@@ -3,3 +3,7 @@ hi how are you ?
 git merge (branchname) - to merge all the branch with main branch
 
 git branch -D (branchname) - delete a branch
+
+git rebase (oldbranchname) (newbranchname) - to merge all the files in old branch to new branch
+
+
