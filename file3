@@ -14,3 +14,6 @@ git add - to add the file to main repository
 
 -- git add . - to send all files in the folder to github
 -- git add filename - to send the particular file to the github
+
+git commit - edit and save the file
+
