@@ -6,4 +6,6 @@ git branch -D (branchname) - delete a branch
 
 git rebase (oldbranchname) (newbranchname) - to merge all the files in old branch to new branch
 
-git stash - save the file in :Wqwork in progress area 
+git stash - save the file in work in progress area 
+
+git clone /path/to/repository
