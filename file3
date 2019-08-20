@@ -14,6 +14,7 @@ git add - to add the file to main repository
 
 -- git add . - to send all files in the folder to github
 -- git add filename - to send the particular file to the github
+<<<<<<< HEAD
 
 git commit - edit and save the file
 
@@ -24,3 +25,5 @@ git push - to push the file from local to central repository
 git branch (branchname) - to create new branch
 
 git checkout branch1 - to enter into the branch
+=======
+>>>>>>> parent of 4b33fc4... new commit7
