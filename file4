@@ -2,9 +2,12 @@ hi
 
 commit 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 new commit 2
 
 new commit 3
+=======
+>>>>>>> parent of b70e921... commit2
 =======
 >>>>>>> parent of b70e921... commit2
